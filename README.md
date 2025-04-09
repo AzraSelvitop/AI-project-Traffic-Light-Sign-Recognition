@@ -37,7 +37,7 @@ It can process both **static images** and **video streams**.
 ---
 
 
-##Train or Load Models
+## Train or Load Models
 You can either use our pre-trained models or retrain from scratch:
 
 - Sign model: sign_recognition/train_sign_cnn.py
